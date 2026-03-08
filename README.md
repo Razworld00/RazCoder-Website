@@ -1,4 +1,20 @@
 # RazCode LLM Web
+# RazCoder
+
+<p align="center">
+  <img src="assets/razcoder-logo.svg" alt="RazCoder Logo" width="820" />
+</p>
+
+<p align="center">
+  <strong>RazCoder Web</strong> Full-stack web interface for RazCode with modern LLM UX patterns
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+  <a href=".github/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/badge/CI-GitHub_Actions-blue.svg"></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-blue">
+</p>
+
 
 Full-stack web interface for RazCode with modern LLM UX patterns:
 
